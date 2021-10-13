@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/floor.png</file>
+        <file>images/menu.png</file>
+        <file>images/player.png</file>
+        <file>images/Floor_Block.png</file>
+        <file>images/Triangle.png</file>
+        <file>images/Background_1.png</file>
+        <file>images/Background_2.png</file>
+        <file>images/Face.png</file>
+        <file>images/fourStack.png</file>
+        <file>images/threeStack.png</file>
+        <file>images/twoStack.png</file>
+        <file>images/Gravity.png</file>
+        <file>images/Triangle_2.png</file>
+        <file>images/Triangle_3.png</file>
+        <file>images/Triangle_4.png</file>
+        <file>images/Triangle_White.png</file>
+        <file>images/dead.png</file>
+        <file>images/Diagonal.png</file>
+        <file>images/Diagonal_Visible.png</file>
+        <file>images/final.png</file>
+        <file>images/GG.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/BebasNeue.otf</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/Soundtrack_1.mp3</file>
+        <file>music/game1Short.mp3</file>
+        <file>music/SHorter.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
