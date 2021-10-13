@@ -10,7 +10,7 @@ Youtube video for gameplay with audio, otherwise a short gif of the game is down
 
 ### Game Walkthrough GIF
 
-<img src="http://g.recordit.co/aEKWktEj3j.gif" width=250><br>
+<img src="http://g.recordit.co/aEKWktEj3j.gif" width=800><br>
 
 ### Notes
 
